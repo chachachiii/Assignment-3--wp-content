@@ -27,6 +27,10 @@
     object-fit: cover;
 }
 
+.gridIMGContainer{
+    row-gap: 80px;
+}
+
 .gridIMGContainer >figure{
     width: 100%;
     height: 100%;
