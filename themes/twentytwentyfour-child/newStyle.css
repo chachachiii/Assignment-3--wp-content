@@ -1,5 +1,7 @@
 /** GENERAL */
-
+.pageHr{
+    border-top: 2px solid;
+}
 
 .border-box{
     box-sizing: border-box;
