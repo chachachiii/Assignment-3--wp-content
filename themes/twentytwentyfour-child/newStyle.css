@@ -32,6 +32,12 @@
     height: 100%;
 }
 
+.gridIMGContainer >figure >img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 /** HOME PAGE */
 .heroBannerLargeH2{
     text-shadow: 5px 5px 5px rgba(24, 24, 24, 0.877);
